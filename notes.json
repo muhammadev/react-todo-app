@@ -1,0 +1,76 @@
+{
+"notes": [
+    {
+        "archived": false,
+        "body": "Some details for note number one",
+        "id": 1,
+        "isSelected": false,
+        "pinned": false,
+        "title": "Note Number One",
+        "favcolor": "#eee"
+    },
+    {
+        "archived": false,
+        "body": "Some details for note number one. Some details for note number one. Some details for note number one. Some details for note number one. Some details for note number one. Some details for note number one. ",
+        "id": 2,
+        "isSelected": false,
+        "pinned": false,
+        "title": "Note Number One",
+        "favcolor": "#eee"
+    },
+    {
+        "archived": false,
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas maxime nam quis doloremque iusto delectus, quasi velit cupiditate fugiat porro adipisci, natus officia eligendi unde neque officiis ullam beatae repudiandae vitae autem, ab sequi minima excepturi! Molestiae excepturi corporis dolorem, provident quaerat ratione beatae nulla labore facere tempora accusamus necessitatibus voluptatum alias cupiditate iure. Eveniet expedita quaerat reiciendis nesciunt.",
+        "id": 3,
+        "isSelected": false,
+        "pinned": false,
+        "title": "Note Number One",
+        "favcolor": "#eee"
+    },
+    {
+        "archived": false,
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas maxime nam quis doloremque iusto delectus, quasi velit cupiditate fugiat porro adipisci, natus officia eligendi unde neque officiis ullam beatae repudiandae vitae autem, ab sequi minima excepturi! Molestiae excepturi corporis dolorem, provident quaerat ratione beatae nulla labore facere tempora accusamus necessitatibus voluptatum alias cupiditate iure. Eveniet expedita quaerat reiciendis nesciunt, quis incidunt officiis facilis cum iusto esse quisquam. Corrupti, accusamus sint? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas maxime nam quis doloremque iusto delectus, quasi velit cupiditate fugiat porro adipisci, natus officia eligendi unde neque officiis ullam beatae repudiandae vitae autem, ab sequi minima excepturi! Molestiae excepturi corporis dolorem, provident quaerat ratione beatae nulla labore facere tempora accusamus necessitatibus voluptatum alias cupiditate iure. Eveniet expedita quaerat reiciendis nesciunt, quis incidunt officiis facilis cum iusto esse quisquam. Corrupti, accusamus sint?",
+        "id": 4,
+        "isSelected": false,
+        "pinned": false,
+        "title": "Note Number One",
+        "favcolor": "#eee"
+    },
+    {
+        "archived": false,
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas maxime nam quis doloremque iusto delectus, quasi velit cupiditate fugiat porro adipisci, natus officia eligendi unde neque officiis ullam beatae repudiandae vitae autem, ab sequi minima excepturi! Molestiae excepturi corporis dolorem, provident quaerat ratione beatae nulla labore facere tempora accusamus necessitatibus voluptatum alias cupiditate iure. Eveniet expedita quaerat reiciendis nesciunt, quis incidunt officiis facilis cum iusto esse quisquam. Corrupti, accusamus sint?",
+        "id": 5,
+        "isSelected": false,
+        "pinned": false,
+        "title": "Note Number One",
+        "favcolor": "#eee"
+    },
+    {
+        "archived": false,
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas maxime nam quis doloremque iusto delectus, Quas maxime nam quis doloremque iusto delectus.",
+        "id": 6,
+        "isSelected": false,
+        "pinned": false,
+        "title": "Note Number One",
+        "favcolor": "#eee"
+    },
+    {
+        "archived": false,
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "id": 7,
+        "isSelected": false,
+        "pinned": false,
+        "title": "Note Number One",
+        "favcolor": "#eee"
+    },
+    {
+        "archived": false,
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas maxime nam quis doloremque iusto delectus",
+        "id": 8,
+        "isSelected": false,
+        "pinned": false,
+        "title": "Note Number One",
+        "favcolor": "#eee"
+    }
+]
+}
